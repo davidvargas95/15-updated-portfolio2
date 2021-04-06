@@ -2,7 +2,7 @@
 
   ## Links
 
-  [Deployed Application](https://davidvargas95.github.io/15-updated-portfolio2/)<br>
+  [Deployed Application](https://davidvargas95.github.io/portfolio/)<br>
   [GitHub Repo](https://github.com/davidvargas95/15-updated-portfolio2)
 
   --
